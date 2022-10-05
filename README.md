@@ -5,7 +5,7 @@ The goal of this issue is to collect a minimum of 1000 reviews for any 10 crypto
 2. Identify sentiment score for each review using one of the existing sentiment analysis tools.
 3. Identify either geolocation, or language for each review.
 4. For the final deliverable, create:
- - CSV-file with the following structure: app name/username/timestamp/app review text/sentiment score /country (language) /marketplace*
+ - CSV-file with the following structure: app name/username/timestamp/app review text/sentiment score (in process) /country (language) /marketplace*
 *marketplace - Apple App Store or Google Play Store
 
  - short report with graphs (based on the reviews that you collected) and basic descriptive statistics
