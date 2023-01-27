@@ -9,3 +9,8 @@ The goal of this issue is to collect a minimum of 1000 reviews for any 10 crypto
 *marketplace - Apple App Store or Google Play Store
 
  - short report with graphs (based on the reviews that you collected) and basic descriptive statistics
+
+# Decision:
+1. Collect 1000 reviews (Parser.ipynb) for 10 cryptocurrency-related applications (cryptocurrency-related applications.csv) -> get Reviews_CryptoApp.csv.
+2. Analyzing collected reviews (Analyze_reviews.ipynb)
+3. Identify sentiment score (Sentiment_analysis.ipynb) -> get Reviews_sentiment_score.csv.
